@@ -1,0 +1,64 @@
+body{
+	background-color: #191919;
+	color:#FAF8EB ;
+	margin: 0px;
+}
+h1{
+	color: #54565B;
+	font-size: 100px;
+	font-family: Helvetica;
+}
+h2 {
+  color: #191919;
+	font-size: 40px;
+	font-family: 'Amatic SC', cursive;
+	line-height: 1.8;
+}
+h3{
+	color: #191919;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+
+.imagenes {
+  width: 350px;
+  height: 145.83px;
+}
+a{color: #191919;
+}
+a:hover{
+	color: white;
+}
+#Titulo{
+	padding: 30px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #FAD41B;
+}
+#Inicio{
+	padding: 60px;
+    text-align: justify;
+    color: #ffffff;
+}
+#llegar{
+	font-size: 20px;
+    text-align: center;
+    padding: 30px;
+}
+#Lugares{
+	background-color:#ffcd00;
+	color: black;
+	padding: 30px 70px 70px;
+}
+.texto{
+	background: #faf8eb;
+    padding: 30px;
+}
+.google{
+	width: 20px;
+	height: 20px;
+}
+#centr{
+	padding: 30px;
+}
+}
